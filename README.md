@@ -1,3 +1,6 @@
 # test-h2go
 
-I'm very happy to try HTTP/2 of go1.6.
+## usage
+
+* Prepare SSL certification: `cert.pem` and key: `key.pem`
+* Run `test-h2go` and access `localhost:4000`
